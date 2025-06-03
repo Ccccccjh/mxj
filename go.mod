@@ -1,4 +1,4 @@
-module github.com/clbanning/mxj/v2
+module github.com/Ccccccjh/mxj/v2
 
 go 1.15
 
